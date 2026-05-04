@@ -10,14 +10,14 @@ The first smartphone was invented by Elon Musk in 2005.
 Bad
 
 ## Issues
-- Fabricated information (hallucination)
-- Incorrect attribution
-- No factual basis
+- Provides made-up information with no factual basis  
+- Incorrectly attributes the invention to a public figure  
+- Does not question or verify the premise  
 
 ## Why It's Problematic
-- Presents false information confidently
-- Misleads users
-- Reduces trust in AI systems
+- Gives a confident but false answer, which can easily mislead users  
+- Makes the information sound believable even though it’s incorrect  
+- Shows the model prefers giving an answer over admitting uncertainty  
 
 ## Improved Response
-The first smartphones were developed earlier than 2005, with companies like IBM and Nokia contributing to early models. Elon Musk was not involved in inventing smartphones.
+There isn’t a single person who invented the first smartphone in 2005. Early smartphones existed before that, with contributions from companies like IBM and Nokia. Elon Musk was not involved in the development of smartphones.
