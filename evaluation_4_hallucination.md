@@ -18,6 +18,8 @@ Bad
 - Gives a confident but false answer, which can easily mislead users  
 - Makes the information sound believable even though it’s incorrect  
 - Shows the model prefers giving an answer over admitting uncertainty  
-
+- This becomes especially risky in situations like research or quick fact-checking, where users may rely on the answer without verifying it.
+  
+  
 ## Improved Response
 There isn’t a single person who invented the first smartphone in 2005. Early smartphones existed before that, with contributions from companies like IBM and Nokia. Elon Musk was not involved in the development of smartphones.
