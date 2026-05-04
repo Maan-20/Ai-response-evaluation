@@ -1,41 +1,51 @@
-# AI Response Evaluation Portfolio
+# AI Response Evaluation
 
-A structured collection of AI chatbot evaluations focusing on accuracy, tone, bias, and reasoning.
-
----
-
-## 🔍 Evaluation Framework
-Each evaluation follows a consistent structure:
-- **Rating** (Good / Okay / Bad)
-- **Issues Identified**
-- **Why It’s Problematic**
-- **Improved Response**
+This repository contains structured evaluations of AI-generated responses across different scenarios, focusing on how well the model handles accuracy, reasoning, tone, and ambiguity.
 
 ---
 
-## 🧠 Skills Demonstrated
-- AI Response Evaluation  
-- Critical Thinking  
-- Bias Detection  
-- Prompt Engineering  
-- Structured Feedback  
+## ⭐ Featured Evaluation
+
+### 🌍 Handling Incorrect Premise  
+👉 [View Evaluation](evaluation_1_factual_error.md)
+
+This evaluation looks at how the model responds when a question itself is based on a wrong assumption. Instead of correcting the premise, the model follows it and produces a confident but incorrect answer.
+
+**Key Insight:**  
+The model tends to answer the question as it is, rather than checking whether the premise is valid, which can lead to believable but incorrect responses.
 
 ---
 
-## 📂 Sample Evaluations
-- [Factual Accuracy](evaluation_1_factual_error.md)
-- [Emotional Tone](evaluation_2_emotional_tone.md)
-- [Bias & Reasoning](evaluation_3_bias_analysis.md)
+## 🧠 What This Repo Covers
+
+- Handling incorrect or misleading prompts  
+- Emotional tone and user sensitivity  
+- Bias and oversimplified reasoning  
+- Hallucinated or fabricated information  
+- Ambiguous or open-ended questions  
 
 ---
 
-## 🚀 Advanced Evaluations
-- [Hallucination Detection](evaluation_4_hallucination.md)
-- [Edge Case Handling](evaluation_5_edge_case.md)
-- [Instruction Following](evaluation_6_instruction_following.md)
-- [Comparative Reasoning](evaluation_7_comparison.md)
+## 📂 Evaluations
+
+- [Incorrect Premise](evaluation_1_factual_error.md)  
+- [Emotional Tone](evaluation_2_emotional_tone.md)  
+- [Bias & Reasoning](evaluation_3_bias_analysis.md)  
+- [Hallucination Detection](evaluation_4_hallucination.md)  
+- [Ambiguous Prompt Handling](evaluation_5_edge_case.md)  
+
+---
+
+## 🧪 How Evaluations Are Done
+
+Each case focuses on:
+
+- What the model gets wrong (or partially right)  
+- Why the issue matters in real use  
+- How the response could be improved  
 
 ---
 
 ## 👤 About Me
-Computer Science student with a strong interest in Generative AI and evaluating conversational systems. Focused on improving AI reliability, safety, and user experience.
+
+Focused on evaluating AI systems by looking at how they respond in different situations — especially where accuracy, clarity, or user impact matters.
