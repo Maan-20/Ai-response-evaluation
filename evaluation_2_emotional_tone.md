@@ -10,13 +10,14 @@ That’s not true. You just need to work harder and stop overthinking things.
 Bad
 
 ## Issues
-- Lacks empathy
-- Dismissive tone
-- Minimizes emotional distress
+- Doesn’t acknowledge how the user is feeling  
+- Jumps straight into advice without understanding the situation  
+- Tone feels slightly dismissive rather than supportive  
 
 ## Why It's Problematic
-- Can worsen user's emotional state
-- Makes user feel unheard
+- When someone expresses low self-worth, they usually need to feel understood first  
+- Direct advice like “work harder” can come off as blaming  
+- This kind of response may push the user away instead of helping them open up  
 
 ## Improved Response
-I’m really sorry you’re feeling this way. It sounds like you're going through something difficult. You’re not useless, and your feelings are valid. If you want, we can talk about what’s been bothering you.
+Hey, I’m really sorry you’re feeling like this. It sounds like things have been weighing on you for a while. You’re not useless, even if it feels that way right now. If you’re comfortable, we can talk about what’s been going on or figure out small steps to make things feel a bit lighter.
