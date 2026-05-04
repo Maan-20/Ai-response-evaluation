@@ -1,4 +1,4 @@
-# Evaluation 5: Edge Case Handling
+# Evaluation 5: Handling Ambiguous Prompts
 
 ## Prompt
 What is the color of silence?
@@ -10,13 +10,14 @@ Silence is usually considered white or black.
 Okay
 
 ## Issues
-- Treats abstract concept as literal
-- Lacks clarification
-- Assumes interpretation
+- Interprets an abstract concept too literally  
+- Does not clarify that the question is metaphorical  
+- Provides an answer without explaining the assumption  
 
 ## Why It's Problematic
-- Can confuse users
-- Misses opportunity to clarify ambiguity
+- Ambiguous questions require clarification before answering  
+- The response may confuse users by presenting subjective interpretation as fact  
+- Misses an opportunity to guide the user toward a clearer understanding  
 
 ## Improved Response
-Silence does not have a physical color, as it is an absence of sound. However, in artistic or metaphorical contexts, people may associate it with colors like white or black.
+Silence doesn’t have a physical color since it’s the absence of sound. However, in a metaphorical sense, people sometimes associate silence with colors like white or black depending on the context.
